@@ -1,0 +1,15 @@
+C:\Temp\projetosdio\ProjetoExemplo.Series\obj\Debug\net6.0\ProjetoExemplo.Series.csproj.AssemblyReference.cache
+C:\Temp\projetosdio\ProjetoExemplo.Series\obj\Debug\net6.0\ProjetoExemplo.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\projetosdio\ProjetoExemplo.Series\obj\Debug\net6.0\ProjetoExemplo.Series.AssemblyInfoInputs.cache
+C:\Temp\projetosdio\ProjetoExemplo.Series\obj\Debug\net6.0\ProjetoExemplo.Series.AssemblyInfo.cs
+C:\Temp\projetosdio\ProjetoExemplo.Series\obj\Debug\net6.0\ProjetoExemplo.Series.csproj.CoreCompileInputs.cache
+C:\Temp\projetosdio\ProjetoExemplo.Series\bin\Debug\net6.0\ProjetoExemplo.Series.exe
+C:\Temp\projetosdio\ProjetoExemplo.Series\bin\Debug\net6.0\ProjetoExemplo.Series.deps.json
+C:\Temp\projetosdio\ProjetoExemplo.Series\bin\Debug\net6.0\ProjetoExemplo.Series.runtimeconfig.json
+C:\Temp\projetosdio\ProjetoExemplo.Series\bin\Debug\net6.0\ProjetoExemplo.Series.dll
+C:\Temp\projetosdio\ProjetoExemplo.Series\bin\Debug\net6.0\ProjetoExemplo.Series.pdb
+C:\Temp\projetosdio\ProjetoExemplo.Series\obj\Debug\net6.0\ProjetoExemplo.Series.dll
+C:\Temp\projetosdio\ProjetoExemplo.Series\obj\Debug\net6.0\refint\ProjetoExemplo.Series.dll
+C:\Temp\projetosdio\ProjetoExemplo.Series\obj\Debug\net6.0\ProjetoExemplo.Series.pdb
+C:\Temp\projetosdio\ProjetoExemplo.Series\obj\Debug\net6.0\ProjetoExemplo.Series.genruntimeconfig.cache
+C:\Temp\projetosdio\ProjetoExemplo.Series\obj\Debug\net6.0\ref\ProjetoExemplo.Series.dll
